@@ -13,6 +13,6 @@
 2. In your new functional component add all missing typescript type declarations for variables, functions and parameters. Replace all `any` declarations with correct types.
 3. Add a loading indicator to the component while the asynchronous call to the weather API is being executed.
 4. Add some styling using Material UI's `useStyles` hook (add some vertical padding to the elements and some colors to the text).  
-5. Create an input element using included *Material UI* library and load the weather data dynamically based on user input of a city.   
+5. Create an input element using Material UI and load the weather data dynamically based on user input of a city.   
 6. Add at least 3 more unit tests to your app using preconfigured jest setup.
 7. Add and configure a tool to check code quality/static analysis (runnable by npm command).
